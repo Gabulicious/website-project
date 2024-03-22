@@ -1,0 +1,118 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.top {
+    background-image: url(web.jpg);
+    width: 100%;
+    height: 300px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+    color: white;
+}
+
+
+
+
+
+.starter {
+    margin-left: 130px;
+    position: absolute;
+    top: 10px;
+}
+
+.starter .course {
+    font-size: large;
+    top: 10px;
+    font-weight: 200;
+}
+
+.starter .course h6 {
+    font-size: xx-small;
+}
+
+.navbar {
+    margin-left: 400px;
+    position: absolute;
+    top: 15px;
+}
+
+.nav {
+    margin-left: 10px;
+}
+
+.icons {
+    margin-left: 800px;
+    top: 16px;
+    position: absolute;
+}
+
+.cons {
+    margin-left: 8px;
+    top: 10px;
+}
+
+.body h3 {
+    top: 150px;
+    position: absolute;
+    left: 180px;
+}
+
+.body h3.courses {
+    left: 270px;
+    position: absolute;
+}
+
+.body h6 {
+    top: 200px;
+    position: absolute;
+    left: 200px;
+}
+
+.button {
+    background-color: palevioletred;
+    position: absolute;
+    color: white;
+    padding: 10px;
+    margin: 4px;
+    left: 230px;
+    top: 230px;
+    border: none;
+    text-align: center;
+    font-size: xx-small;
+    border-radius: 13px;
+}
+
+.bottom h6 {
+    position: absolute;
+    color: gray;
+    font-size: xx-small;
+    top: 330px;
+    left: 420px;
+}
+
+.bottom h4 {
+    position: absolute;
+    font-size: small;
+    top: 340px;
+    left: 400px;
+}
+
+
+.forms {border-style: ;
+    position: absolute;
+    margin-top: 100px;
+    width: 100px;
+    left: 150px;
+    top: 270px;
+    font-size: xx-small;
+
+}
+img{
+    height: 80px;
+    width: 130px;
+}
+ .forms h6{top: 85px;
+left: 7px;}
